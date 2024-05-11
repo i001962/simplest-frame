@@ -1,5 +1,5 @@
 ![poster-animated](https://github.com/depatchedmode/simplest-frame/assets/84613835/7dadc2cb-7410-4e8d-b8bb-6c314655e5fc)
-
+i
 ## A zero-cost, zero-framework, dynamic Farcaster Frame template
 
 This is the "simplest" version of a Frame that can do all of the things a Frame should be able to do. It may be more than you need. It may be less. But it's a great place to start, IMHO. And it is indebted to all the great work by the team over at https://framesjs.org
