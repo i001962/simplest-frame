@@ -20,8 +20,8 @@ export default {
                 },
                 {
                     action: 'link',
-                    target: 'https://github.com/depatchedmode/simplest-frame',
-                    label: 'Github'
+                    target: 'https://en.wikipedia.org/wiki/Metalog_distribution/',
+                    label: 'Metalogs💡'
                 }
             ]
         }
